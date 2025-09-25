@@ -1,0 +1,245 @@
+{
+    "domain": "History",
+    "questions": [
+      {
+        "id": "history-beginner-001",
+        "difficulty": "Beginner",
+        "question": "The Battle of Plassey (1757) was fought between the British East India Company and which ruler?",
+        "options": ["Tipu Sultan", "Mir Jafar", "Siraj-ud-Daulah", "Bahadur Shah"],
+        "correctIndex": 2,
+        "explanation": "The Battle of Plassey was fought between the British East India Company and Siraj-ud-Daulah."
+      },
+      {
+        "id": "history-beginner-002",
+        "difficulty": "Beginner",
+        "question": "The Great Wall of China was primarily built during which dynasty?",
+        "options": ["Tang", "Qin", "Han", "Ming"],
+        "correctIndex": 1,
+        "explanation": "The Great Wall of China was primarily built during the Qin Dynasty."
+      },
+      {
+        "id": "history-beginner-003",
+        "difficulty": "Beginner",
+        "question": "The Quit India Movement was launched in which year?",
+        "options": ["1939", "1940", "1942", "1945"],
+        "correctIndex": 2,
+        "explanation": "The Quit India Movement was launched in 1942."
+      },
+      {
+        "id": "history-beginner-004",
+        "difficulty": "Beginner",
+        "question": "The Indus Valley Civilization is best known for which urban feature?",
+        "options": ["Temples", "Drainage system", "Castles", "Stone tools"],
+        "correctIndex": 1,
+        "explanation": "The Indus Valley Civilization is known for its advanced drainage systems."
+      },
+      {
+        "id": "history-beginner-005",
+        "difficulty": "Beginner",
+        "question": "Who founded the Gupta dynasty?",
+        "options": ["Samudragupta", "Chandragupta I", "Chandragupta II", "Skandagupta"],
+        "correctIndex": 1,
+        "explanation": "Chandragupta I founded the Gupta dynasty."
+      },
+      {
+        "id": "history-intermediate-001",
+        "difficulty": "Intermediate",
+        "question": "Who was the first Mughal emperor of India?",
+        "options": ["Humayun", "Akbar", "Babur", "Aurangzeb"],
+        "correctIndex": 2,
+        "explanation": "Babur was the first Mughal emperor of India."
+      },
+      {
+        "id": "history-intermediate-002",
+        "difficulty": "Intermediate",
+        "question": "The American Civil War (1861–1865) was fought primarily over which issue?",
+        "options": ["Taxation", "Slavery", "Colonization", "Monarchy"],
+        "correctIndex": 1,
+        "explanation": "The American Civil War was fought primarily over the issue of slavery."
+      },
+      {
+        "id": "history-intermediate-003",
+        "difficulty": "Intermediate",
+        "question": "The Treaty of Versailles (1919) officially ended which war?",
+        "options": ["Seven Years’ War", "World War I", "World War II", "Napoleonic Wars"],
+        "correctIndex": 1,
+        "explanation": "The Treaty of Versailles officially ended World War I."
+      },
+      {
+        "id": "history-intermediate-004",
+        "difficulty": "Intermediate",
+        "question": "Who led the Bolshevik Revolution in Russia (1917)?",
+        "options": ["Stalin", "Trotsky", "Lenin", "Khrushchev"],
+        "correctIndex": 2,
+        "explanation": "Lenin led the Bolshevik Revolution in 1917."
+      },
+      {
+        "id": "history-intermediate-005",
+        "difficulty": "Intermediate",
+        "question": "In India, who was the leader associated with the slogan “Do or Die”?",
+        "options": ["Subhas Chandra Bose", "Jawaharlal Nehru", "Mahatma Gandhi", "Bal Gangadhar Tilak"],
+        "correctIndex": 2,
+        "explanation": "Mahatma Gandhi gave the 'Do or Die' slogan during the Quit India Movement."
+      },
+      {
+        "id": "history-intermediate-006",
+        "difficulty": "Intermediate",
+        "question": "The Meiji Restoration marked the modernization of which country?",
+        "options": ["Korea", "Japan", "China", "Vietnam"],
+        "correctIndex": 1,
+        "explanation": "The Meiji Restoration marked the modernization of Japan."
+      },
+      {
+        "id": "history-intermediate-007",
+        "difficulty": "Intermediate",
+        "question": "Who was the first President of the United States?",
+        "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+        "correctIndex": 1,
+        "explanation": "George Washington was the first President of the United States."
+      },
+      {
+        "id": "history-intermediate-008",
+        "difficulty": "Intermediate",
+        "question": "Who was the ruler of the Maurya Empire at its peak of territorial expansion?",
+        "options": ["Chandragupta Maurya", "Ashoka the Great", "Bindusara", "Samudragupta"],
+        "correctIndex": 1,
+        "explanation": "Ashoka the Great was the ruler of the Maurya Empire at its peak."
+      },
+      {
+        "id": "history-intermediate-009",
+        "difficulty": "Intermediate",
+        "question": "The French Revolution began in which year?",
+        "options": ["1776", "1789", "1815", "1848"],
+        "correctIndex": 1,
+        "explanation": "The French Revolution began in 1789."
+      },
+      {
+        "id": "history-intermediate-010",
+        "difficulty": "Intermediate",
+        "question": "The Hundred Years’ War was fought between which two countries?",
+        "options": ["France and England", "Spain and Portugal", "Germany and Italy", "Sweden and Denmark"],
+        "correctIndex": 0,
+        "explanation": "The Hundred Years’ War was a conflict between France and England."
+      },
+      {
+        "id": "history-advanced-001",
+        "difficulty": "Advanced",
+        "question": "The Peloponnesian War was fought between Athens and which rival city-state?",
+        "options": ["Sparta", "Corinth", "Thebes", "Delphi"],
+        "correctIndex": 0,
+        "explanation": "The Peloponnesian War was fought between Athens and Sparta."
+      },
+      {
+        "id": "history-advanced-002",
+        "difficulty": "Advanced",
+        "question": "The Battle of Hastings (1066) established which dynasty in England?",
+        "options": ["Tudor", "Plantagenet", "Norman", "Stuart"],
+        "correctIndex": 2,
+        "explanation": "The Battle of Hastings established the Norman dynasty in England."
+      },
+      {
+        "id": "history-advanced-003",
+        "difficulty": "Advanced",
+        "question": "The decline of the Roman Empire in the West is commonly dated to which year?",
+        "options": ["395 AD", "410 AD", "476 AD", "533 AD"],
+        "correctIndex": 2,
+        "explanation": "The decline of the Western Roman Empire is commonly dated to 476 AD."
+      },
+      {
+        "id": "history-advanced-004",
+        "difficulty": "Advanced",
+        "question": "Who was the Byzantine emperor who codified Roman law (Corpus Juris Civilis)?",
+        "options": ["Constantine", "Justinian I", "Theodosius", "Heraclius"],
+        "correctIndex": 1,
+        "explanation": "Justinian I was the Byzantine emperor who codified Roman law."
+      },
+      {
+        "id": "history-advanced-005",
+        "difficulty": "Advanced",
+        "question": "The Taiping Rebellion occurred in which country?",
+        "options": ["Japan", "China", "Korea", "Vietnam"],
+        "correctIndex": 1,
+        "explanation": "The Taiping Rebellion was a civil war in China."
+      },
+      {
+        "id": "history-advanced-006",
+        "difficulty": "Advanced",
+        "question": "The Magna Carta was signed in which year?",
+        "options": ["1066", "1215", "1492", "1649"],
+        "correctIndex": 1,
+        "explanation": "The Magna Carta was signed in 1215."
+      },
+      {
+        "id": "history-advanced-007",
+        "difficulty": "Advanced",
+        "question": "Which Mughal ruler is credited with establishing Din-i Ilahi?",
+        "options": ["Akbar", "Jahangir", "Shah Jahan", "Aurangzeb"],
+        "correctIndex": 0,
+        "explanation": "Akbar is credited with establishing Din-i Ilahi."
+      },
+      {
+        "id": "history-advanced-008",
+        "difficulty": "Advanced",
+        "question": "The Congress of Vienna (1814–1815) aimed to restore balance in Europe after whose defeat?",
+        "options": ["Napoleon", "Hitler", "Charlemagne", "Kaiser Wilhelm"],
+        "correctIndex": 0,
+        "explanation": "The Congress of Vienna aimed to restore balance in Europe after Napoleon's defeat."
+      },
+      {
+        "id": "history-advanced-009",
+        "difficulty": "Advanced",
+        "question": "The Bosnian Crisis of 1908 involved the annexation of Bosnia and Herzegovina by which empire?",
+        "options": ["Ottoman", "Austro-Hungarian", "Russian", "British"],
+        "correctIndex": 1,
+        "explanation": "The Austro-Hungarian Empire annexed Bosnia and Herzegovina during the Bosnian Crisis."
+      },
+      {
+        "id": "history-advanced-010",
+        "difficulty": "Advanced",
+        "question": "Who was the Indian revolutionary leader hanged in 1931 along with Rajguru and Sukhdev?",
+        "options": ["Bhagat Singh", "Chandrashekhar Azad", "Lala Lajpat Rai", "Udham Singh"],
+        "correctIndex": 0,
+        "explanation": "Bhagat Singh was hanged in 1931 along with his comrades Rajguru and Sukhdev."
+      },
+      {
+        "id": "history-advanced-011",
+        "difficulty": "Advanced",
+        "question": "Which empire was ruled by Genghis Khan?",
+        "options": ["Ottoman", "Mongol", "Persian", "Byzantine"],
+        "correctIndex": 1,
+        "explanation": "Genghis Khan ruled the Mongol Empire."
+      },
+      {
+        "id": "history-advanced-012",
+        "difficulty": "Advanced",
+        "question": "The Spanish Armada was defeated by which country in 1588?",
+        "options": ["Portugal", "England", "France", "Netherlands"],
+        "correctIndex": 1,
+        "explanation": "The Spanish Armada was defeated by England in 1588."
+      },
+      {
+        "id": "history-advanced-013",
+        "difficulty": "Advanced",
+        "question": "The Berlin Conference (1884–1885) regulated European colonization of which continent?",
+        "options": ["Asia", "Africa", "South America", "Oceania"],
+        "correctIndex": 1,
+        "explanation": "The Berlin Conference regulated the colonization of Africa."
+      },
+      {
+        "id": "history-advanced-014",
+        "difficulty": "Advanced",
+        "question": "Who was the founder of the Ottoman Empire?",
+        "options": ["Mehmed II", "Osman I", "Suleiman", "Murad I"],
+        "correctIndex": 1,
+        "explanation": "Osman I was the founder of the Ottoman Empire."
+      },
+      {
+        "id": "history-advanced-015",
+        "difficulty": "Advanced",
+        "question": "The Cuban Missile Crisis of 1962 was a standoff between the USA and which country?",
+        "options": ["China", "USSR", "Cuba", "North Korea"],
+        "correctIndex": 1,
+        "explanation": "The Cuban Missile Crisis was a standoff between the USA and the USSR."
+      }
+    ]
+  }

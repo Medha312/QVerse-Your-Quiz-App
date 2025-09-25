@@ -1,0 +1,245 @@
+{
+    "domain": "Geopolitics",
+    "questions": [
+      {
+        "id": "geopolitics-beginner-001",
+        "difficulty": "Beginner",
+        "question": "Which organization is often called the “world parliament”?",
+        "options": ["IMF", "United Nations General Assembly", "NATO", "WHO"],
+        "correctIndex": 1,
+        "explanation": "The United Nations General Assembly is often called the 'world parliament' as it is where all member states have a seat and vote."
+      },
+      {
+        "id": "geopolitics-beginner-002",
+        "difficulty": "Beginner",
+        "question": "The headquarters of the European Union (EU) is located in:",
+        "options": ["Paris", "Brussels", "Berlin", "Rome"],
+        "correctIndex": 1,
+        "explanation": "The main headquarters of the European Union is in Brussels."
+      },
+      {
+        "id": "geopolitics-beginner-003",
+        "difficulty": "Beginner",
+        "question": "Which two countries share the world’s longest international border?",
+        "options": ["USA & Mexico", "Russia & China", "USA & Canada", "India & China"],
+        "correctIndex": 2,
+        "explanation": "The United States and Canada share the longest international border."
+      },
+      {
+        "id": "geopolitics-beginner-004",
+        "difficulty": "Beginner",
+        "question": "The World Trade Organization (WTO) sets rules for international trade to prevent disputes. It was established in which year?",
+        "options": ["1995", "1980", "2001", "1975"],
+        "correctIndex": 0,
+        "explanation": "The World Trade Organization was established in 1995."
+      },
+      {
+        "id": "geopolitics-beginner-005",
+        "difficulty": "Beginner",
+        "question": "The G7 group of nations is primarily made up of:",
+        "options": ["Developing economies", "Major advanced economies", "African countries", "Middle East states"],
+        "correctIndex": 1,
+        "explanation": "The G7 is a group of major advanced economies."
+      },
+      {
+        "id": "geopolitics-intermediate-001",
+        "difficulty": "Intermediate",
+        "question": "The Cold War was primarily a rivalry between:",
+        "options": ["USA & Japan", "USA & USSR", "USSR & China", "USA & UK"],
+        "correctIndex": 1,
+        "explanation": "The Cold War was a geopolitical rivalry between the United States and the Soviet Union (USSR)."
+      },
+      {
+        "id": "geopolitics-intermediate-002",
+        "difficulty": "Intermediate",
+        "question": "BRICS is an alliance of which countries?",
+        "options": ["Brazil, Russia, India, China, South Africa", "Bangladesh, Romania, Italy, Chile, Spain", "Belgium, Russia, Iran, China, Sudan", "None of these"],
+        "correctIndex": 0,
+        "explanation": "BRICS is an alliance of Brazil, Russia, India, China, and South Africa."
+      },
+      {
+        "id": "geopolitics-intermediate-003",
+        "difficulty": "Intermediate",
+        "question": "Which country officially exited the European Union in 2020 (“Brexit”)?",
+        "options": ["Ireland", "Germany", "United Kingdom", "France"],
+        "correctIndex": 2,
+        "explanation": "The United Kingdom officially exited the European Union in 2020."
+      },
+      {
+        "id": "geopolitics-intermediate-004",
+        "difficulty": "Intermediate",
+        "question": "The Belt and Road Initiative (BRI) is a global infrastructure project launched by:",
+        "options": ["USA", "Russia", "China", "Japan"],
+        "correctIndex": 2,
+        "explanation": "The Belt and Road Initiative is a global infrastructure project launched by China."
+      },
+      {
+        "id": "geopolitics-intermediate-005",
+        "difficulty": "Intermediate",
+        "question": "NATO was formed in which year?",
+        "options": ["1945", "1947", "1949", "1955"],
+        "correctIndex": 2,
+        "explanation": "NATO was formed in 1949."
+      },
+      {
+        "id": "geopolitics-intermediate-006",
+        "difficulty": "Intermediate",
+        "question": "The South China Sea disputes mainly involve:",
+        "options": ["Trade tariffs", "Territorial claims", "Climate change", "Space exploration"],
+        "correctIndex": 1,
+        "explanation": "The disputes in the South China Sea are primarily over territorial claims."
+      },
+      {
+        "id": "geopolitics-intermediate-007",
+        "difficulty": "Intermediate",
+        "question": "The OPEC organization is primarily concerned with:",
+        "options": ["Food security", "Oil production", "Water distribution", "Nuclear energy"],
+        "correctIndex": 1,
+        "explanation": "The OPEC organization is concerned with the production and price of oil."
+      },
+      {
+        "id": "geopolitics-intermediate-008",
+        "difficulty": "Intermediate",
+        "question": "The Camp David Accords (1978) brought peace talks between which two Middle Eastern nations?",
+        "options": ["Israel & Egypt", "Israel & Jordan", "Iraq & Iran", "Lebanon & Syria"],
+        "correctIndex": 0,
+        "explanation": "The Camp David Accords were a peace treaty between Israel and Egypt."
+      },
+      {
+        "id": "geopolitics-intermediate-009",
+        "difficulty": "Intermediate",
+        "question": "Which of the following countries is NOT a permanent member of the UN Security Council?",
+        "options": ["USA", "UK", "Germany", "China"],
+        "correctIndex": 2,
+        "explanation": "Germany is not a permanent member of the UN Security Council."
+      },
+      {
+        "id": "geopolitics-intermediate-010",
+        "difficulty": "Intermediate",
+        "question": "The Non-Aligned Movement (NAM) was founded during which period?",
+        "options": ["Cold War", "World War II", "Post – World War I", "21st century"],
+        "correctIndex": 0,
+        "explanation": "The Non-Aligned Movement was founded during the Cold War."
+      },
+      {
+        "id": "geopolitics-advanced-001",
+        "difficulty": "Advanced",
+        "question": "The Yalta Conference (1945) involved which leaders?",
+        "options": ["Churchill, Stalin, Roosevelt", "Hitler, Stalin, Mussolini", "Truman, Mao, Attlee", "Roosevelt, De Gaulle, Franco"],
+        "correctIndex": 0,
+        "explanation": "The Yalta Conference involved Winston Churchill, Joseph Stalin, and Franklin Roosevelt."
+      },
+      {
+        "id": "geopolitics-advanced-002",
+        "difficulty": "Advanced",
+        "question": "The Sykes–Picot Agreement (1916) secretly divided territories of which empire?",
+        "options": ["Ottoman Empire", "British Empire", "Mughal Empire", "Austro-Hungarian Empire"],
+        "correctIndex": 0,
+        "explanation": "The Sykes–Picot Agreement secretly divided the territories of the Ottoman Empire."
+      },
+      {
+        "id": "geopolitics-advanced-003",
+        "difficulty": "Advanced",
+        "question": "The term “Iron Curtain” was popularized by:",
+        "options": ["Franklin Roosevelt", "Winston Churchill", "Joseph Stalin", "Harry Truman"],
+        "correctIndex": 1,
+        "explanation": "The term 'Iron Curtain' was popularized by Winston Churchill."
+      },
+      {
+        "id": "geopolitics-advanced-004",
+        "difficulty": "Advanced",
+        "question": "Which two countries fought the Falklands War in 1982?",
+        "options": ["UK & Argentina", "USA & Cuba", "France & Spain", "Brazil & Uruguay"],
+        "correctIndex": 0,
+        "explanation": "The Falklands War was fought between the UK and Argentina."
+      },
+      {
+        "id": "geopolitics-advanced-005",
+        "difficulty": "Advanced",
+        "question": "The Cuban Missile Crisis was triggered by Soviet missiles being placed in:",
+        "options": ["Venezuela", "Cuba", "Turkey", "Mexico"],
+        "correctIndex": 1,
+        "explanation": "The Cuban Missile Crisis was triggered by Soviet missiles being placed in Cuba."
+      },
+      {
+        "id": "geopolitics-advanced-006",
+        "difficulty": "Advanced",
+        "question": "The Oslo Accords (1993) aimed at resolving conflict between:",
+        "options": ["USA & Russia", "Israel & Palestine", "North Korea & South Korea", "India & Pakistan"],
+        "correctIndex": 1,
+        "explanation": "The Oslo Accords aimed to resolve the conflict between Israel and Palestine."
+      },
+      {
+        "id": "geopolitics-advanced-007",
+        "difficulty": "Advanced",
+        "question": "Which doctrine justified U.S. intervention in Latin America during the Cold War?",
+        "options": ["Monroe Doctrine", "Truman Doctrine", "Nixon Doctrine", "Carter Doctrine"],
+        "correctIndex": 0,
+        "explanation": "The Monroe Doctrine justified U.S. intervention in Latin America."
+      },
+      {
+        "id": "geopolitics-advanced-008",
+        "difficulty": "Advanced",
+        "question": "The Bandung Conference (1955) was the first large-scale meeting of:",
+        "options": ["NATO members", "Asian and African states", "European states", "BRICS"],
+        "correctIndex": 1,
+        "explanation": "The Bandung Conference was the first large-scale meeting of Asian and African states."
+      },
+      {
+        "id": "geopolitics-advanced-009",
+        "difficulty": "Advanced",
+        "question": "The concept of “Mutually Assured Destruction (MAD)” is associated with:",
+        "options": ["Conventional warfare", "Nuclear strategy", "Guerrilla warfare", "Proxy wars"],
+        "correctIndex": 1,
+        "explanation": "The concept of MAD is a nuclear strategy."
+      },
+      {
+        "id": "geopolitics-advanced-010",
+        "difficulty": "Advanced",
+        "question": "The Marshall Plan (1948) was aimed at rebuilding which region?",
+        "options": ["Latin America", "Western Europe", "East Asia", "Africa"],
+        "correctIndex": 1,
+        "explanation": "The Marshall Plan was aimed at rebuilding Western Europe after World War II."
+      },
+      {
+        "id": "geopolitics-advanced-011",
+        "difficulty": "Advanced",
+        "question": "Which country controls the strategically important Strait of Hormuz?",
+        "options": ["Saudi Arabia", "Iran", "UAE", "Oman"],
+        "correctIndex": 1,
+        "explanation": "Iran controls the Strait of Hormuz."
+      },
+      {
+        "id": "geopolitics-advanced-012",
+        "difficulty": "Advanced",
+        "question": "The “One China Policy” mainly concerns the political status of:",
+        "options": ["Hong Kong", "Tibet", "Taiwan", "Macau"],
+        "correctIndex": 2,
+        "explanation": "The 'One China Policy' concerns the political status of Taiwan."
+      },
+      {
+        "id": "geopolitics-advanced-013",
+        "difficulty": "Advanced",
+        "question": "The Organisation of African Unity (OAU), now replaced by the African Union (AU), was established in:",
+        "options": ["1945", "1963", "1971", "1991"],
+        "correctIndex": 1,
+        "explanation": "The OAU was established in 1963."
+      },
+      {
+        "id": "geopolitics-advanced-014",
+        "difficulty": "Advanced",
+        "question": "The Truman Doctrine was primarily designed to contain:",
+        "options": ["Terrorism", "Communism", "Fascism", "Colonialism"],
+        "correctIndex": 1,
+        "explanation": "The Truman Doctrine was a policy to contain the spread of communism."
+      },
+      {
+        "id": "geopolitics-advanced-015",
+        "difficulty": "Advanced",
+        "question": "The Good Friday Agreement (1998) sought to bring peace in which region?",
+        "options": ["Middle East", "Northern Ireland", "Balkans", "South Africa"],
+        "correctIndex": 1,
+        "explanation": "The Good Friday Agreement sought to bring peace to Northern Ireland."
+      }
+    ]
+  }

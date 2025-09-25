@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>QVerse</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="bg-candy">
+      <div class="bubble b1"></div>
+      <div class="bubble b2"></div>
+      <div class="bubble b3"></div>
+      <div class="bubble b4"></div>
+      <div class="blob bl1"></div>
+      <div class="blob bl2"></div>
+      <div class="star s1">★</div>
+      <div class="star s2">★</div>
+      <div class="star s3">★</div>
+    </div>
+    <header class="app-header">
+      <h1>QVerse</h1>
+      
+    </header>
+
+    <main class="container">
+      <!-- Home / Setup View -->
+      <!-- Domain Selection View -->
+      <section id="view-domain" class="view active">
+        <div class="card">
+          <div class="row">
+            
+            <div id="domain-chips" class="chip-grid">
+              <button class="chip sports" data-domain="sports">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M12 2L9 8L2 9L7 13L6 20L12 17L18 20L17 13L22 9L15 8L12 2Z" fill="currentColor"/></svg>
+                &nbsp;Sports
+              </button>
+              <button class="chip history" data-domain="history">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M4 4H20V20H4V4ZM7 7V17H17V7H7Z" fill="currentColor"/></svg>
+                &nbsp;History
+              </button>
+              <button class="chip geography" data-domain="geography">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M12 2C6.48 2 2 6.48 2 12C2 17.52 6.48 22 12 22C17.52 22 22 17.52 22 12C22 6.48 17.52 2 12 2ZM9 4.5L11 7H9L7 9L9 11L7 13L9 15L11 17H13L15 19.5C12.5 20.2 9.5 19.5 7.8 17.7C5.9 15.9 5.2 12.9 6 10.5C6.6 8.7 7.7 6.9 9 4.5ZM14 7L15.5 8.5L14 10L16 12L15 14L17 16C18.5 14.7 19.6 12.9 20 11C20.4 8.8 19.9 6.4 18.5 4.8C17.5 3.6 16.1 3 14 3V7Z" fill="currentColor"/></svg>
+                &nbsp;Geography
+              </button>
+              <button class="chip geopolitics" data-domain="geopolitics">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M12 3C7 3 3 7 3 12C3 17 7 21 12 21C17 21 21 17 21 12C21 7 17 3 12 3ZM11 6H13V8H11V6ZM11 10H13V18H11V10Z" fill="currentColor"/></svg>
+                &nbsp;Geopolitics
+              </button>
+              <button class="chip sciencetech" data-domain="sciencetech">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M10 2H14V6L18 12V20H6V12L10 6V2ZM8 18H16V13L12 7L8 13V18Z" fill="currentColor"/></svg>
+                &nbsp;Science &amp; Tech
+              </button>
+              <button class="chip literatureentertainment" data-domain="literatureentertainment">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M4 6H20V8H4V6ZM4 10H14V12H4V10ZM4 14H20V16H4V14ZM4 18H14V20H4V18Z" fill="currentColor"/></svg>
+                &nbsp;Literature &amp; Entertainment
+              </button>
+            </div>
+          </div>
+          <div class="actions">
+            <button id="to-difficulty-btn" class="btn primary" disabled>Next</button>
+          </div>
+        </div>
+        </section>
+        
+
+      <!-- Difficulty Selection View -->
+      <section id="view-difficulty" class="view">
+        <div class="card">
+          <div class="row">
+            
+            <div id="difficulty-chips" class="chip-grid">
+              <button class="chip diff-beginner" data-difficulty="Beginner">🍬 Beginner (5)</button>
+              <button class="chip diff-intermediate" data-difficulty="Intermediate">🍭 Intermediate (10)</button>
+              <button class="chip diff-advanced" data-difficulty="Advanced">🍩 Advanced (15)</button>
+            </div>
+          </div>
+          <div class="actions">
+            <button id="to-play-btn" class="btn primary" disabled>Next</button>
+            <button id="back-domain-btn" class="btn">Back</button>
+          </div>
+        </div>
+      </section>
+      
+
+      <!-- Play Screen View -->
+      <section id="view-play" class="view">
+        <div class="card">
+          <div class="row">
+            <h2 class="play-title">Ready to play?</h2>
+          </div>
+          <div class="actions">
+            <button id="play-start-btn" class="btn primary big">▶ Play</button>
+            <button id="back-difficulty-btn" class="btn">Back</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Get Ready Countdown View -->
+      <section id="view-ready" class="view">
+        <div class="card center-card">
+          <div class="ready-wrap">
+            <div class="ready-title">Get Ready!</div>
+            <div id="ready-count" class="ready-count">3</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- Quiz View -->
+      <section id="view-quiz" class="view fullscreen">
+        <div class="card">
+          <div class="quiz-header">
+            <div id="progress">Question 1/10</div>
+            <div id="timer" class="timer hidden">
+              <svg class="timer-svg" width="46" height="46" viewBox="0 0 46 46" aria-hidden="true">
+                <circle class="timer-bg" cx="23" cy="23" r="18"></circle>
+                <circle class="timer-fg" cx="23" cy="23" r="18" stroke-dasharray="113" stroke-dashoffset="0"></circle>
+              </svg>
+              <div id="timer-text" class="timer-text">30</div>
+            </div>
+          </div>
+          <div class="progressbar">
+            <div id="progress-fill" class="progressbar-fill" style="width: 0%"></div>
+          </div>
+          <div id="question-text" class="question-text">Question text</div>
+
+          <div id="options" class="options"></div>
+
+          <div id="feedback" class="feedback"></div>
+
+          <div class="actions space-between">
+            <button id="prev-btn" class="btn" disabled>Previous</button>
+            <button id="next-btn" class="btn primary">Next</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Results View -->
+      <section id="view-results" class="view">
+        <div class="card">
+          <h2 class="play-title">Your Results</h2>
+
+          <div class="score-wrap">
+            <div class="score-badge">
+              <div id="score" class="score-value">0 / 0</div>
+              <div class="score-label">Score</div>
+            </div>
+            <div class="score-stats">
+              <div class="stat-row">
+                <div class="metric-label">Accuracy</div>
+                <div class="metric-value" id="accuracy">0%</div>
+                <div class="bar"><div id="accuracy-bar" class="bar-fill" style="width:0%"></div></div>
+              </div>
+              <div class="stat-row">
+                <div class="metric-label">Time</div>
+                <div class="metric-value" id="time">0s</div>
+              </div>
+            </div>
+          </div>
+
+          <div id="result-quote" class="result-quote">Keep going!</div>
+
+          <canvas id="confetti-canvas" class="confetti-canvas" width="0" height="0"></canvas>
+
+          <div class="actions">
+            <button id="review-btn" class="btn color-review">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M12 5C8.13401 5 5 8.13401 5 12C5 15.866 8.13401 19 12 19C12.69 19 13.358 18.9 13.993 18.709L17 20L16.291 16.993C16.9 16.358 17 15.69 17 15C17 11.134 13.866 8 10 8C9.31 8 8.642 8.1 8.007 8.291L7 5.999L10.007 6.709C10.642 6.1 11.31 6 12 6C15.866 6 19 9.13401 19 13C19 16.866 15.866 20 12 20C8.13401 20 5 16.866 5 13" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+              Review Answers
+            </button>
+            <button id="restart-btn" class="btn color-restart">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M12 5V2L8 6L12 10V7C15.314 7 18 9.686 18 13C18 16.314 15.314 19 12 19C8.686 19 6 16.314 6 13H4C4 17.418 7.582 21 12 21C16.418 21 20 17.418 20 13C20 8.582 16.418 5 12 5Z" fill="currentColor"/></svg>
+              Restart
+            </button>
+            <button id="home-btn" class="btn color-home">
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M12 3L3 10H6V20H11V14H13V20H18V10H21L12 3Z" fill="currentColor"/></svg>
+              Home
+            </button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Review View -->
+      <section id="view-review" class="view">
+        <div class="card">
+          <h2>Review</h2>
+          <div id="review-list" class="review-list"></div>
+          <div class="actions">
+            <button id="review-home-btn" class="btn">Home</button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <small>Learn while Playing !!</small>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+  </html>
+
+

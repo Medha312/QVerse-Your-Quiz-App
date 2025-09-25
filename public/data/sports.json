@@ -1,0 +1,245 @@
+{
+    "domain": "Sports",
+    "questions": [
+      {
+        "id": "sports-beginner-001",
+        "difficulty": "Beginner",
+        "question": "How many players are on a football (soccer) team?",
+        "options": ["9", "10", "11", "12"],
+        "correctIndex": 2,
+        "explanation": "A football (soccer) team has 11 players on the field."
+      },
+      {
+        "id": "sports-beginner-002",
+        "difficulty": "Beginner",
+        "question": "How long is an Olympic swimming pool?",
+        "options": ["25m", "50m", "75m", "100m"],
+        "correctIndex": 1,
+        "explanation": "An Olympic swimming pool is 50 meters in length."
+      },
+      {
+        "id": "sports-beginner-003",
+        "difficulty": "Beginner",
+        "question": "Which sport is known as the \"gentleman’s game\"?",
+        "options": ["Cricket", "Tennis", "Rugby", "Golf"],
+        "correctIndex": 0,
+        "explanation": "Cricket is often referred to as the 'gentleman's game'."
+      },
+      {
+        "id": "sports-beginner-004",
+        "difficulty": "Beginner",
+        "question": "How many rings are there in the Olympic symbol?",
+        "options": ["4", "5", "6", "7"],
+        "correctIndex": 1,
+        "explanation": "The Olympic symbol has five interlocking rings."
+      },
+      {
+        "id": "sports-beginner-005",
+        "difficulty": "Beginner",
+        "question": "In cricket, how many balls are bowled in an over?",
+        "options": ["5", "6", "7", "8"],
+        "correctIndex": 1,
+        "explanation": "An over in cricket consists of six balls."
+      },
+      {
+        "id": "sports-intermediate-001",
+        "difficulty": "Intermediate",
+        "question": "Which country has won the most FIFA World Cups?",
+        "options": ["Germany", "Argentina", "Brazil", "Italy"],
+        "correctIndex": 2,
+        "explanation": "Brazil has won the most FIFA World Cups."
+      },
+      {
+        "id": "sports-intermediate-002",
+        "difficulty": "Intermediate",
+        "question": "The term “love” is used in which sport?",
+        "options": ["Cricket", "Tennis", "Hockey", "Football"],
+        "correctIndex": 1,
+        "explanation": "The term 'love' is used in tennis to mean a score of zero."
+      },
+      {
+        "id": "sports-intermediate-003",
+        "difficulty": "Intermediate",
+        "question": "Who won the 2019 Cricket World Cup?",
+        "options": ["India", "England", "Australia", "New Zealand"],
+        "correctIndex": 1,
+        "explanation": "England won the 2019 Cricket World Cup, defeating New Zealand."
+      },
+      {
+        "id": "sports-intermediate-004",
+        "difficulty": "Intermediate",
+        "question": "What is the national sport of Japan?",
+        "options": ["Karate", "Sumo Wrestling", "Baseball", "Judo"],
+        "correctIndex": 1,
+        "explanation": "Sumo wrestling is the national sport of Japan."
+      },
+      {
+        "id": "sports-intermediate-005",
+        "difficulty": "Intermediate",
+        "question": "Which NBA player is known as “King James”?",
+        "options": ["Kobe Bryant", "LeBron James", "Michael Jordan", "Shaquille O ’ Neal"],
+        "correctIndex": 1,
+        "explanation": "LeBron James is widely known by his nickname, 'King James'."
+      },
+      {
+        "id": "sports-intermediate-006",
+        "difficulty": "Intermediate",
+        "question": "Which country won the first ever FIFA World Cup (1930)?",
+        "options": ["Brazil", "Uruguay", "Italy", "Germany"],
+        "correctIndex": 1,
+        "explanation": "Uruguay won the first FIFA World Cup in 1930."
+      },
+      {
+        "id": "sports-intermediate-007",
+        "difficulty": "Intermediate",
+        "question": "In basketball, how many points is a free throw worth?",
+        "options": ["1", "2", "3", "5"],
+        "correctIndex": 0,
+        "explanation": "A free throw in basketball is worth one point."
+      },
+      {
+        "id": "sports-intermediate-008",
+        "difficulty": "Intermediate",
+        "question": "Which country hosted the 2016 Olympics?",
+        "options": ["China", "Brazil", "UK", "Russia"],
+        "correctIndex": 1,
+        "explanation": "Brazil hosted the 2016 Summer Olympics in Rio de Janeiro."
+      },
+      {
+        "id": "sports-intermediate-009",
+        "difficulty": "Intermediate",
+        "question": "Who holds the record for the most home runs in MLB history?",
+        "options": ["Hank Aaron", "Barry Bonds", "Babe Ruth", "Alex Rodriguez"],
+        "correctIndex": 1,
+        "explanation": "Barry Bonds holds the record for most career home runs in Major League Baseball."
+      },
+      {
+        "id": "sports-intermediate-010",
+        "difficulty": "Intermediate",
+        "question": "In chess, what is the only move where two pieces move in a single turn?",
+        "options": ["En Passant", "Promotion", "Castling", "Double Attack"],
+        "correctIndex": 2,
+        "explanation": "Castling is a special move where the king and a rook move simultaneously."
+      },
+      {
+        "id": "sports-advanced-001",
+        "difficulty": "Advanced",
+        "question": "Who has won the most Grand Slam tennis titles (men)?",
+        "options": ["Nadal", "Djokovic", "Federer", "Murray"],
+        "correctIndex": 1,
+        "explanation": "As of 2025, Novak Djokovic holds the record for the most men's Grand Slam titles."
+      },
+      {
+        "id": "sports-advanced-002",
+        "difficulty": "Advanced",
+        "question": "Which Indian cricketer scored 6 sixes in an over in the 2007 T20 World Cup?",
+        "options": ["Dhoni", "Yuvraj Singh", "Sehwag", "Raina"],
+        "correctIndex": 1,
+        "explanation": "Yuvraj Singh achieved this feat against England in the 2007 T20 World Cup."
+      },
+      {
+        "id": "sports-advanced-003",
+        "difficulty": "Advanced",
+        "question": "Who is India’s first individual Olympic gold medalist?",
+        "options": ["Abhinav Bindra", "Neeraj Chopra", "Rajyavardhan Rathore", "P.V. Sindhu"],
+        "correctIndex": 0,
+        "explanation": "Abhinav Bindra won India's first individual Olympic gold medal in shooting in 2008."
+      },
+      {
+        "id": "sports-advanced-004",
+        "difficulty": "Advanced",
+        "question": "In Formula 1, which driver has the most World Championships (as of 2025)?",
+        "options": ["Michael Schumacher", "Lewis Hamilton", "Ayrton Senna", "Sebastian Vettel"],
+        "correctIndex": 1,
+        "explanation": "As of 2025, Lewis Hamilton holds the record for the most Formula 1 World Championships."
+      },
+      {
+        "id": "sports-advanced-005",
+        "difficulty": "Advanced",
+        "question": "Which country invented table tennis?",
+        "options": ["Japan", "UK", "China", "Germany"],
+        "correctIndex": 1,
+        "explanation": "Table tennis originated in England, UK."
+      },
+      {
+        "id": "sports-advanced-006",
+        "difficulty": "Advanced",
+        "question": "The Ashes trophy is contested between which two countries?",
+        "options": ["India & Pakistan", "England & Australia", "SA & NZ", "WI & SL"],
+        "correctIndex": 1,
+        "explanation": "The Ashes is a Test cricket series played between England and Australia."
+      },
+      {
+        "id": "sports-advanced-007",
+        "difficulty": "Advanced",
+        "question": "Who won the Golden Boot in FIFA World Cup 2018?",
+        "options": ["Messi", "Kane", "Mbappé", "Ronaldo"],
+        "correctIndex": 1,
+        "explanation": "Harry Kane won the Golden Boot at the 2018 FIFA World Cup."
+      },
+      {
+        "id": "sports-advanced-008",
+        "difficulty": "Advanced",
+        "question": "Which cricketer is the fastest to score 10,000 ODI runs?",
+        "options": ["Tendulkar", "Kohli", "Ponting", "Sangakkara"],
+        "correctIndex": 1,
+        "explanation": "Virat Kohli is the fastest to reach 10,000 runs in One Day Internationals."
+      },
+      {
+        "id": "sports-advanced-009",
+        "difficulty": "Advanced",
+        "question": "Where did the first modern Olympics take place (1896)?",
+        "options": ["London", "Athens", "Paris", "Rome"],
+        "correctIndex": 1,
+        "explanation": "The first modern Olympic Games were held in Athens, Greece."
+      },
+      {
+        "id": "sports-advanced-010",
+        "difficulty": "Advanced",
+        "question": "Which Indian boxer won an Olympic bronze in 2012?",
+        "options": ["Mary Kom", "Vijender Singh", "Lovlina", "Akhil"],
+        "correctIndex": 0,
+        "explanation": "Mary Kom won a bronze medal in boxing at the 2012 London Olympics."
+      },
+      {
+        "id": "sports-advanced-011",
+        "difficulty": "Advanced",
+        "question": "Who is the only athlete to win Olympic gold in 100m, 200m, and 4x100m three times?",
+        "options": ["Carl Lewis", "Usain Bolt", "Jesse Owens", "Michael Johnson"],
+        "correctIndex": 1,
+        "explanation": "Usain Bolt is the only athlete to win these three events in three consecutive Olympics."
+      },
+      {
+        "id": "sports-advanced-012",
+        "difficulty": "Advanced",
+        "question": "Which cricket stadium is called the \"Mecca of Cricket\"?",
+        "options": ["MCG", "Lord’s", "Eden Gardens", "SCG"],
+        "correctIndex": 1,
+        "explanation": "Lord’s Cricket Ground in London is known as the 'Mecca of Cricket'."
+      },
+      {
+        "id": "sports-advanced-013",
+        "difficulty": "Advanced",
+        "question": "Which sport awards the Davis Cup?",
+        "options": ["Badminton", "Tennis", "Squash", "Hockey"],
+        "correctIndex": 1,
+        "explanation": "The Davis Cup is the premier international team event in men's tennis."
+      },
+      {
+        "id": "sports-advanced-014",
+        "difficulty": "Advanced",
+        "question": "Which Indian wrestler won Olympic silver in 2012?",
+        "options": ["Sushil Kumar", "Yogeshwar Dutt", "Bajrang Punia", "Sakshi Malik"],
+        "correctIndex": 0,
+        "explanation": "Sushil Kumar won a silver medal in wrestling at the 2012 London Olympics."
+      },
+      {
+        "id": "sports-advanced-015",
+        "difficulty": "Advanced",
+        "question": "In football, which club is known as “The Red Devils”?",
+        "options": ["Chelsea", "Man United", "Liverpool", "Arsenal"],
+        "correctIndex": 1,
+        "explanation": "Manchester United is famously nicknamed 'The Red Devils'."
+      }
+    ]
+  }

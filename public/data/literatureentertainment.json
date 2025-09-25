@@ -1,0 +1,245 @@
+{
+    "domain": "Entertainment & Literature",
+    "questions": [
+      {
+        "id": "entertainment-beginner-001",
+        "difficulty": "Beginner",
+        "question": "Who is considered the father of modern detective fiction, known for creating a methodical and logical approach to solving crimes?",
+        "options": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Dashiell Hammett"],
+        "correctIndex": 1,
+        "explanation": "Arthur Conan Doyle is considered the father of modern detective fiction for creating the character Sherlock Holmes."
+      },
+      {
+        "id": "entertainment-beginner-002",
+        "difficulty": "Beginner",
+        "question": "In the Harry Potter series, what is the name of the school where young wizards and witches are trained?",
+        "options": ["Beauxbatons Academy", "Hogwarts School of Witchcraft and Wizardry", "Durmstrang Institute", "Ilvermorny School"],
+        "correctIndex": 1,
+        "explanation": "Hogwarts is the famous school of witchcraft and wizardry in the Harry Potter series."
+      },
+      {
+        "id": "entertainment-beginner-003",
+        "difficulty": "Beginner",
+        "question": "Which instrument is commonly associated with Beethoven?",
+        "options": ["Violin", "Piano", "Guitar", "Flute"],
+        "correctIndex": 1,
+        "explanation": "Beethoven is widely associated with the piano, for which he composed many sonatas and concertos."
+      },
+      {
+        "id": "entertainment-beginner-004",
+        "difficulty": "Beginner",
+        "question": "Who is the author of The Hobbit?",
+        "options": ["J.K. Rowling", "C.S. Lewis", "J.R.R. Tolkien", "George R.R. Martin"],
+        "correctIndex": 2,
+        "explanation": "J.R.R. Tolkien wrote The Hobbit."
+      },
+      {
+        "id": "entertainment-beginner-005",
+        "difficulty": "Beginner",
+        "question": "The Oscars, officially known as the Academy Awards, primarily recognize excellence in:",
+        "options": ["Literature", "Motion pictures", "Music", "Theatre"],
+        "correctIndex": 1,
+        "explanation": "The Academy Awards recognize excellence in cinematic achievements, specifically motion pictures."
+      },
+      {
+        "id": "entertainment-intermediate-001",
+        "difficulty": "Intermediate",
+        "question": "The novel 1984 was written by:",
+        "options": ["Aldous Huxley", "George Orwell", "F. Scott Fitzgerald", "Ernest Hemingway"],
+        "correctIndex": 1,
+        "explanation": "The dystopian novel 1984 was written by George Orwell."
+      },
+      {
+        "id": "entertainment-intermediate-002",
+        "difficulty": "Intermediate",
+        "question": "Who composed the music for The Nutcracker ballet?",
+        "options": ["Bach", "Mozart", "Tchaikovsky", "Beethoven"],
+        "correctIndex": 2,
+        "explanation": "Tchaikovsky composed the famous music for The Nutcracker ballet."
+      },
+      {
+        "id": "entertainment-intermediate-003",
+        "difficulty": "Intermediate",
+        "question": "Which book series is authored by Suzanne Collins?",
+        "options": ["Divergent", "Hunger Games", "Twilight", "Percy Jackson"],
+        "correctIndex": 1,
+        "explanation": "Suzanne Collins is the author of The Hunger Games series."
+      },
+      {
+        "id": "entertainment-intermediate-004",
+        "difficulty": "Intermediate",
+        "question": "The term “bildungsroman” refers to:",
+        "options": ["A detective story", "A coming-of-age novel", "A play", "A poem"],
+        "correctIndex": 1,
+        "explanation": "A bildungsroman is a literary genre focusing on the psychological and moral growth of the protagonist from youth to adulthood."
+      },
+      {
+        "id": "entertainment-intermediate-005",
+        "difficulty": "Intermediate",
+        "question": "Which actor played Jack Dawson in Titanic?",
+        "options": ["Brad Pitt", "Leonardo DiCaprio", "Tom Cruise", "Johnny Depp"],
+        "correctIndex": 1,
+        "explanation": "Leonardo DiCaprio played the character of Jack Dawson in the film Titanic."
+      },
+      {
+        "id": "entertainment-intermediate-006",
+        "difficulty": "Intermediate",
+        "question": "Who wrote the poem The Raven?",
+        "options": ["Walt Whitman", "Edgar Allan Poe", "Robert Frost", "Emily Dickinson"],
+        "correctIndex": 1,
+        "explanation": "Edgar Allan Poe is the author of the narrative poem The Raven."
+      },
+      {
+        "id": "entertainment-intermediate-007",
+        "difficulty": "Intermediate",
+        "question": "The first full-length animated feature film was:",
+        "options": ["Cinderella", "Snow White and the Seven Dwarfs", "Pinocchio", "Fantasia"],
+        "correctIndex": 1,
+        "explanation": "Snow White and the Seven Dwarfs (1937) was the first full-length animated feature film."
+      },
+      {
+        "id": "entertainment-intermediate-008",
+        "difficulty": "Intermediate",
+        "question": "“To be, or not to be” is a line from which play?",
+        "options": ["Hamlet", "Macbeth", "Othello", "King Lear"],
+        "correctIndex": 0,
+        "explanation": "This famous soliloquy is from William Shakespeare's play Hamlet."
+      },
+      {
+        "id": "entertainment-intermediate-009",
+        "difficulty": "Intermediate",
+        "question": "Who is known as the “King of Pop” and revolutionized music videos with innovative choreography?",
+        "options": ["Prince", "Michael Jackson", "Justin Timberlake", "Elvis Presley"],
+        "correctIndex": 1,
+        "explanation": "Michael Jackson is famously known as the 'King of Pop'."
+      },
+      {
+        "id": "entertainment-intermediate-010",
+        "difficulty": "Intermediate",
+        "question": "The term “plot twist” refers to:",
+        "options": ["A sudden change in the narrative that alters the story’s direction", "The introduction of a new character", "A musical interlude", "A visual effect in movies"],
+        "correctIndex": 0,
+        "explanation": "A plot twist is a radical change in the story's direction."
+      },
+      {
+        "id": "entertainment-advanced-001",
+        "difficulty": "Advanced",
+        "question": "In literary theory, “stream of consciousness” is a narrative technique popularized by:",
+        "options": ["Ernest Hemingway", "James Joyce", "Jane Austen", "F. Scott Fitzgerald"],
+        "correctIndex": 1,
+        "explanation": "James Joyce is a key figure who popularized the 'stream of consciousness' narrative technique."
+      },
+      {
+        "id": "entertainment-advanced-002",
+        "difficulty": "Advanced",
+        "question": "The Shakespearean tragedy that explores jealousy, manipulation, and the consequences of trust betrayed, featuring Iago as the main antagonist, is:",
+        "options": ["Hamlet", "Macbeth", "Othello", "King Lear"],
+        "correctIndex": 2,
+        "explanation": "Iago is the main antagonist in Shakespeare's tragedy Othello."
+      },
+      {
+        "id": "entertainment-advanced-003",
+        "difficulty": "Advanced",
+        "question": "The term “magnum opus” refers to:",
+        "options": ["An artist’s greatest work", "A minor work", "A short story", "A musical composition"],
+        "correctIndex": 0,
+        "explanation": "A 'magnum opus' is an artist's most important or greatest work."
+      },
+      {
+        "id": "entertainment-advanced-004",
+        "difficulty": "Advanced",
+        "question": "Which film director is known for movies like Pulp Fiction and Kill Bill?",
+        "options": ["Martin Scorsese", "Quentin Tarantino", "Steven Spielberg", "Christopher Nolan"],
+        "correctIndex": 1,
+        "explanation": "Quentin Tarantino directed both Pulp Fiction and Kill Bill."
+      },
+      {
+        "id": "entertainment-advanced-005",
+        "difficulty": "Advanced",
+        "question": "“One Hundred Years of Solitude” was written by:",
+        "options": ["Gabriel García Márquez", "Pablo Neruda", "Isabel Allende", "Mario Vargas Llosa"],
+        "correctIndex": 0,
+        "explanation": "Gabriel García Márquez is the author of 'One Hundred Years of Solitude'."
+      },
+      {
+        "id": "entertainment-advanced-006",
+        "difficulty": "Advanced",
+        "question": "In music, a “sonata” is a composition typically written for:",
+        "options": ["Voice", "Solo instrument with accompaniment", "Orchestra only", "Percussion"],
+        "correctIndex": 1,
+        "explanation": "A sonata is a piece for a solo instrument, often with piano accompaniment."
+      },
+      {
+        "id": "entertainment-advanced-007",
+        "difficulty": "Advanced",
+        "question": "Which author created the character Sherlock Holmes?",
+        "options": ["Agatha Christie", "Arthur Conan Doyle", "Edgar Allan Poe", "Ian Fleming"],
+        "correctIndex": 1,
+        "explanation": "Arthur Conan Doyle is the creator of the famous detective Sherlock Holmes."
+      },
+      {
+        "id": "entertainment-advanced-008",
+        "difficulty": "Advanced",
+        "question": "Cinematography in film involves the art of visual storytelling, including lighting, framing, camera movement, and shot composition, not just camera operation.",
+        "options": ["True", "Motion capture", "Camera work and visual composition", "Editing techniques"],
+        "correctIndex": 2,
+        "explanation": "Cinematography is the art of visual storytelling, which includes camera work and visual composition."
+      },
+      {
+        "id": "entertainment-advanced-009",
+        "difficulty": "Advanced",
+        "question": "Who wrote Pride and Prejudice?",
+        "options": ["Charlotte Brontë", "Jane Austen", "Emily Brontë", "Mary Shelley"],
+        "correctIndex": 1,
+        "explanation": "Jane Austen is the author of the novel Pride and Prejudice."
+      },
+      {
+        "id": "entertainment-advanced-010",
+        "difficulty": "Advanced",
+        "question": "The Golden Globe awards are presented by:",
+        "options": ["Hollywood Foreign Press Association", "Academy of Motion Picture Arts and Sciences", "British Film Institute", "Screen Actors Guild"],
+        "correctIndex": 0,
+        "explanation": "The Golden Globe Awards are presented by the Hollywood Foreign Press Association."
+      },
+      {
+        "id": "entertainment-advanced-011",
+        "difficulty": "Advanced",
+        "question": "Which famous playwright wrote Waiting for Godot?",
+        "options": ["Samuel Beckett", "Arthur Miller", "Tennessee Williams", "Eugene O ’ Neill"],
+        "correctIndex": 0,
+        "explanation": "Samuel Beckett wrote the absurdist play Waiting for Godot."
+      },
+      {
+        "id": "entertainment-advanced-012",
+        "difficulty": "Advanced",
+        "question": "The “Baroque” period in music includes composers like:",
+        "options": ["Beethoven", "Bach", "Chopin", "Mozart"],
+        "correctIndex": 1,
+        "explanation": "Bach is one of the most prominent composers of the Baroque period."
+      },
+      {
+        "id": "entertainment-advanced-013",
+        "difficulty": "Advanced",
+        "question": "Which movie is considered the first “talkie” (sound film)?",
+        "options": ["Metropolis", "The Jazz Singer", "Nosferatu", "Steamboat Willie"],
+        "correctIndex": 1,
+        "explanation": "The Jazz Singer (1927) is considered the first feature-length 'talkie' film."
+      },
+      {
+        "id": "entertainment-advanced-014",
+        "difficulty": "Advanced",
+        "question": "Who is the author of The Divine Comedy?",
+        "options": ["Dante Alighieri", "John Milton", "Homer", "Virgil"],
+        "correctIndex": 0,
+        "explanation": "Dante Alighieri is the author of The Divine Comedy."
+      },
+      {
+        "id": "entertainment-advanced-015",
+        "difficulty": "Advanced",
+        "question": "The literary device where a non-human object is given human characteristics is called:",
+        "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+        "correctIndex": 2,
+        "explanation": "Personification is the literary device of attributing human characteristics to a non-human thing."
+      }
+    ]
+  }

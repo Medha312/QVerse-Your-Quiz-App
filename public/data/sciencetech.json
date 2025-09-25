@@ -1,0 +1,245 @@
+{
+    "domain": "Science & Technology",
+    "questions": [
+      {
+        "id": "sciencetech-beginner-001",
+        "difficulty": "Beginner",
+        "question": "Which of the following is not a state of matter at standard temperature and pressure?",
+        "options": ["Solid", "Liquid", "Plasma", "Ether"],
+        "correctIndex": 3,
+        "explanation": "Ether is not a state of matter; it's a chemical compound."
+      },
+      {
+        "id": "sciencetech-beginner-002",
+        "difficulty": "Beginner",
+        "question": "Which planet has the fastest rotation, giving it the shortest day?",
+        "options": ["Earth", "Jupiter", "Mars", "Venus"],
+        "correctIndex": 1,
+        "explanation": "Jupiter has the fastest rotation, with a day lasting about 10 hours."
+      },
+      {
+        "id": "sciencetech-beginner-003",
+        "difficulty": "Beginner",
+        "question": "Which element is essential for the production of thyroid hormones in humans?",
+        "options": ["Iodine", "Iron", "Calcium", "Zinc"],
+        "correctIndex": 0,
+        "explanation": "Iodine is a key element for the thyroid gland to produce hormones."
+      },
+      {
+        "id": "sciencetech-beginner-004",
+        "difficulty": "Beginner",
+        "question": "What type of energy is stored in chemical bonds of molecules?",
+        "options": ["Kinetic", "Potential", "Chemical", "Thermal"],
+        "correctIndex": 2,
+        "explanation": "Energy stored in chemical bonds is known as chemical energy."
+      },
+      {
+        "id": "sciencetech-beginner-005",
+        "difficulty": "Beginner",
+        "question": "Which gas is the main contributor to the greenhouse effect and global warming?",
+        "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Methane"],
+        "correctIndex": 2,
+        "explanation": "Carbon dioxide is the primary greenhouse gas contributing to global warming."
+      },
+      {
+        "id": "sciencetech-intermediate-001",
+        "difficulty": "Intermediate",
+        "question": "The process of converting sugar into alcohol using yeast (fermentation) is primarily:",
+        "options": ["Anaerobic respiration", "Distillation", "Sublimation", "Oxidation"],
+        "correctIndex": 0,
+        "explanation": "Fermentation is a type of anaerobic respiration."
+      },
+      {
+        "id": "sciencetech-intermediate-002",
+        "difficulty": "Intermediate",
+        "question": "Mitochondria generate most of a cell’s ATP through:",
+        "options": ["Glycolysis", "Electron transport chain", "Photosynthesis", "Fermentation"],
+        "correctIndex": 1,
+        "explanation": "The electron transport chain within mitochondria generates most of a cell’s ATP."
+      },
+      {
+        "id": "sciencetech-intermediate-003",
+        "difficulty": "Intermediate",
+        "question": "Red blood cells carry oxygen because they contain:",
+        "options": ["Hemoglobin", "Chlorophyll", "Myoglobin", "Fibrin"],
+        "correctIndex": 0,
+        "explanation": "Hemoglobin in red blood cells is responsible for carrying oxygen."
+      },
+      {
+        "id": "sciencetech-intermediate-004",
+        "difficulty": "Intermediate",
+        "question": "Newton’s third law implies that forces always occur in:",
+        "options": ["Same direction only", "Equal magnitude and opposite direction", "Different magnitude only", "Perpendicular directions"],
+        "correctIndex": 1,
+        "explanation": "Newton's third law states that for every action, there is an equal and opposite reaction."
+      },
+      {
+        "id": "sciencetech-intermediate-005",
+        "difficulty": "Intermediate",
+        "question": "Among electromagnetic waves, which has the highest energy and shortest wavelength?",
+        "options": ["Radio waves", "Microwaves", "Gamma rays", "Infrared"],
+        "correctIndex": 2,
+        "explanation": "Gamma rays have the highest energy and shortest wavelength on the electromagnetic spectrum."
+      },
+      {
+        "id": "sciencetech-intermediate-006",
+        "difficulty": "Intermediate",
+        "question": "In CRISPR-Cas9 technology, the guide RNA is responsible for:",
+        "options": ["Cutting DNA", "Replicating DNA", "Recognizing the target sequence", "Synthesizing proteins"],
+        "correctIndex": 2,
+        "explanation": "The guide RNA in CRISPR-Cas9 technology recognizes the specific DNA target sequence."
+      },
+      {
+        "id": "sciencetech-intermediate-007",
+        "difficulty": "Intermediate",
+        "question": "Mercury and bromine are unusual because they are:",
+        "options": ["Gases at room temperature", "Liquids at room temperature", "Solids at high temperature", "Plasmas at room temperature"],
+        "correctIndex": 1,
+        "explanation": "Mercury and bromine are the only two elements that are liquid at standard room temperature."
+      },
+      {
+        "id": "sciencetech-intermediate-008",
+        "difficulty": "Intermediate",
+        "question": "The SI unit Hertz measures:",
+        "options": ["Cycles per second", "Force per unit area", "Energy", "Magnetic flux"],
+        "correctIndex": 0,
+        "explanation": "Hertz is the SI unit of frequency, which measures cycles per second."
+      },
+      {
+        "id": "sciencetech-intermediate-009",
+        "difficulty": "Intermediate",
+        "question": "Albert Einstein is known for developing:",
+        "options": ["Newton’s laws of motion", "Theory of relativity", "Quantum entanglement", "Evolution theory"],
+        "correctIndex": 1,
+        "explanation": "Albert Einstein is best known for his theories of special and general relativity."
+      },
+      {
+        "id": "sciencetech-intermediate-010",
+        "difficulty": "Intermediate",
+        "question": "A p-n junction in semiconductors is critical for:",
+        "options": ["Controlling current flow in diodes and transistors", "Measuring temperature", "Producing mechanical energy", "Amplifying sound"],
+        "correctIndex": 0,
+        "explanation": "A p-n junction controls the flow of current and is a basic component of diodes and transistors."
+      },
+      {
+        "id": "sciencetech-advanced-001",
+        "difficulty": "Advanced",
+        "question": "The Pauli Exclusion Principle explains why:",
+        "options": ["Electrons in an atom cannot have identical quantum numbers", "Atoms emit light", "Molecules bond covalently", "Particles decay"],
+        "correctIndex": 0,
+        "explanation": "The Pauli Exclusion Principle states that no two electrons in an atom can have the same four quantum numbers."
+      },
+      {
+        "id": "sciencetech-advanced-002",
+        "difficulty": "Advanced",
+        "question": "Quantum entanglement implies:",
+        "options": ["Instantaneous interaction over distance", "Particles moving slower than light", "Conservation of mass", "Classical motion"],
+        "correctIndex": 0,
+        "explanation": "Quantum entanglement implies that two particles can be linked and their properties are instantaneously correlated, regardless of the distance between them."
+      },
+      {
+        "id": "sciencetech-advanced-003",
+        "difficulty": "Advanced",
+        "question": "The Large Hadron Collider (LHC) experiments primarily test:",
+        "options": ["Classical mechanics", "High-energy particle physics", "Thermodynamics", "Electromagnetism"],
+        "correctIndex": 1,
+        "explanation": "The LHC is designed to test theories of high-energy particle physics."
+      },
+      {
+        "id": "sciencetech-advanced-004",
+        "difficulty": "Advanced",
+        "question": "Ribosomes synthesize proteins by:",
+        "options": ["Transcribing DNA", "Translating mRNA sequences into amino acids", "Replicating RNA", "Producing ATP"],
+        "correctIndex": 1,
+        "explanation": "Ribosomes translate mRNA sequences into a chain of amino acids to form a protein."
+      },
+      {
+        "id": "sciencetech-advanced-005",
+        "difficulty": "Advanced",
+        "question": "In CRISPR-Cas9, Cas9 acts as:",
+        "options": ["RNA guide", "Protein enzyme that cuts DNA", "Lipid carrier", "Carbohydrate marker"],
+        "correctIndex": 1,
+        "explanation": "The Cas9 protein acts as a molecular scissor that cuts DNA at a specific location."
+      },
+      {
+        "id": "sciencetech-advanced-006",
+        "difficulty": "Advanced",
+        "question": "The Higgs boson discovery is associated with:",
+        "options": ["Explaining why particles have mass", "Detecting neutrinos", "Measuring gravity", "Mapping black holes"],
+        "correctIndex": 0,
+        "explanation": "The discovery of the Higgs boson explains why fundamental particles have mass."
+      },
+      {
+        "id": "sciencetech-advanced-007",
+        "difficulty": "Advanced",
+        "question": "The strongest chemical bond typically found in molecules is:",
+        "options": ["Ionic", "Covalent", "Hydrogen", "Van der Waals"],
+        "correctIndex": 1,
+        "explanation": "Covalent bonds, where atoms share electrons, are generally the strongest type of chemical bond."
+      },
+      {
+        "id": "sciencetech-advanced-008",
+        "difficulty": "Advanced",
+        "question": "Moore’s Law predicts:",
+        "options": ["Doubling of transistor density on integrated circuits approximately every two years", "Doubling of population", "Doubling of energy production", "Doubling of magnetic field strength"],
+        "correctIndex": 0,
+        "explanation": "Moore's Law predicts that the number of transistors on a microchip doubles approximately every two years."
+      },
+      {
+        "id": "sciencetech-advanced-009",
+        "difficulty": "Advanced",
+        "question": "The first artificial satellite, Sputnik 1 (1957), marked the beginning of:",
+        "options": ["Space age", "Nuclear age", "Internet era", "Industrial revolution"],
+        "correctIndex": 0,
+        "explanation": "The launch of Sputnik 1 in 1957 marked the beginning of the space age."
+      },
+      {
+        "id": "sciencetech-advanced-010",
+        "difficulty": "Advanced",
+        "question": "A p-n junction in semiconductors is crucial for:",
+        "options": ["Producing light and controlling current flow", "Generating magnetic fields", "Measuring temperature", "Storing chemical energy"],
+        "correctIndex": 0,
+        "explanation": "A p-n junction is crucial for producing light (LEDs) and controlling current flow (diodes and transistors)."
+      },
+      {
+        "id": "sciencetech-advanced-011",
+        "difficulty": "Advanced",
+        "question": "The RNA world hypothesis suggests:",
+        "options": ["Life began with RNA molecules capable of replication", "DNA was the first self-replicating molecule", "Proteins arose first", "Lipids were first"],
+        "correctIndex": 0,
+        "explanation": "The RNA world hypothesis proposes that early life forms were based on RNA molecules that could both store genetic information and catalyze chemical reactions."
+      },
+      {
+        "id": "sciencetech-advanced-012",
+        "difficulty": "Advanced",
+        "question": "Alan Turing contributed to:",
+        "options": ["Modern computing & cryptography", "Quantum mechanics", "Molecular biology", "Rocket science"],
+        "correctIndex": 0,
+        "explanation": "Alan Turing is considered the father of theoretical computer science and artificial intelligence, and made significant contributions to cryptography."
+      },
+      {
+        "id": "sciencetech-advanced-013",
+        "difficulty": "Advanced",
+        "question": "A Faraday cage protects sensitive equipment by:",
+        "options": ["Blocking external electric fields", "Amplifying signals", "Storing energy", "Generating heat"],
+        "correctIndex": 0,
+        "explanation": "A Faraday cage works by blocking external static and dynamic electric fields."
+      },
+      {
+        "id": "sciencetech-advanced-014",
+        "difficulty": "Advanced",
+        "question": "The Standard Model of particle physics describes:",
+        "options": ["Fundamental particles & forces (except gravity)", "Chemistry of atoms", "Planetary motion", "Classical mechanics"],
+        "correctIndex": 0,
+        "explanation": "The Standard Model describes the fundamental particles and three of the four fundamental forces (excluding gravity)."
+      },
+      {
+        "id": "sciencetech-advanced-015",
+        "difficulty": "Advanced",
+        "question": "Dark matter is detected because it:",
+        "options": ["Exerts gravitational effects despite being invisible", "Emits light in ultraviolet", "Interacts with strong force only", "Is made of ordinary matter"],
+        "correctIndex": 0,
+        "explanation": "Dark matter is detected through its gravitational effects on visible matter, despite not emitting or absorbing light."
+      }
+    ]
+  }

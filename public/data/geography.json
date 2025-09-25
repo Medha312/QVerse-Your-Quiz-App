@@ -1,0 +1,245 @@
+{
+    "domain": "Geography",
+    "questions": [
+      {
+        "id": "geography-beginner-001",
+        "difficulty": "Beginner",
+        "question": "The Tropic of Cancer passes through how many states of India?",
+        "options": ["6", "7", "8", "9"],
+        "correctIndex": 2,
+        "explanation": "The Tropic of Cancer passes through 8 states in India."
+      },
+      {
+        "id": "geography-beginner-002",
+        "difficulty": "Beginner",
+        "question": "Which is the largest desert in the world?",
+        "options": ["Sahara", "Gobi", "Antarctic Desert", "Kalahari"],
+        "correctIndex": 2,
+        "explanation": "The Antarctic Desert is the largest desert in the world."
+      },
+      {
+        "id": "geography-beginner-003",
+        "difficulty": "Beginner",
+        "question": "Mount Kilimanjaro is located in which country?",
+        "options": ["Kenya", "Tanzania", "Uganda", "Ethiopia"],
+        "correctIndex": 1,
+        "explanation": "Mount Kilimanjaro is located in Tanzania."
+      },
+      {
+        "id": "geography-beginner-004",
+        "difficulty": "Beginner",
+        "question": "The Suez Canal connects which two seas?",
+        "options": ["Black Sea & Caspian Sea", "Red Sea & Mediterranean Sea", "Arabian Sea & Bay of Bengal", "Adriatic Sea & Aegean Sea"],
+        "correctIndex": 1,
+        "explanation": "The Suez Canal connects the Red Sea and the Mediterranean Sea."
+      },
+      {
+        "id": "geography-beginner-005",
+        "difficulty": "Beginner",
+        "question": "The Great Barrier Reef is located off the coast of which country?",
+        "options": ["Indonesia", "Philippines", "Australia", "Fiji"],
+        "correctIndex": 2,
+        "explanation": "The Great Barrier Reef is located off the coast of Australia."
+      },
+      {
+        "id": "geography-intermediate-001",
+        "difficulty": "Intermediate",
+        "question": "Which river is the longest in the world?",
+        "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+        "correctIndex": 0,
+        "explanation": "The Nile is the longest river in the world."
+      },
+      {
+        "id": "geography-intermediate-002",
+        "difficulty": "Intermediate",
+        "question": "The highest plateau in the world is:",
+        "options": ["Deccan Plateau", "Colorado Plateau", "Tibetan Plateau", "Mongolian Plateau"],
+        "correctIndex": 2,
+        "explanation": "The Tibetan Plateau is the highest plateau in the world."
+      },
+      {
+        "id": "geography-intermediate-003",
+        "difficulty": "Intermediate",
+        "question": "Which strait separates Asia from North America?",
+        "options": ["Malacca Strait", "Bering Strait", "Bosporus Strait", "Davis Strait"],
+        "correctIndex": 1,
+        "explanation": "The Bering Strait separates Asia and North America."
+      },
+      {
+        "id": "geography-intermediate-004",
+        "difficulty": "Intermediate",
+        "question": "The Dead Sea lies between Israel/Palestine and Jordan. Its extremely high salinity is primarily due to:",
+        "options": ["High evaporation & lack of outlet", "High rainfall", "Volcanic activity", "Ocean currents"],
+        "correctIndex": 0,
+        "explanation": "The Dead Sea's high salinity is due to high evaporation and no outlet for its water."
+      },
+      {
+        "id": "geography-intermediate-005",
+        "difficulty": "Intermediate",
+        "question": "The Pacific “Ring of Fire” is so seismically active mainly because:",
+        "options": ["It has many rivers and deltas", "It is a zone of converging tectonic plates", "It is near the equator", "It has many deserts"],
+        "correctIndex": 1,
+        "explanation": "The 'Ring of Fire' is a zone of converging tectonic plates, causing high seismic activity."
+      },
+      {
+        "id": "geography-intermediate-006",
+        "difficulty": "Intermediate",
+        "question": "Which ocean current is known as the “warm current” in the Atlantic Ocean?",
+        "options": ["Canary", "Labrador", "Gulf Stream", "Humboldt"],
+        "correctIndex": 2,
+        "explanation": "The Gulf Stream is a warm and swift Atlantic Ocean current."
+      },
+      {
+        "id": "geography-intermediate-007",
+        "difficulty": "Intermediate",
+        "question": "The world’s largest delta is formed by which river system?",
+        "options": ["Ganga-Brahmaputra", "Amazon", "Nile", "Mississippi"],
+        "correctIndex": 0,
+        "explanation": "The Ganga-Brahmaputra Delta is the world's largest."
+      },
+      {
+        "id": "geography-intermediate-008",
+        "difficulty": "Intermediate",
+        "question": "Which African country has the most pyramids?",
+        "options": ["Egypt", "Sudan", "Ethiopia", "Libya"],
+        "correctIndex": 1,
+        "explanation": "Sudan has more pyramids than Egypt."
+      },
+      {
+        "id": "geography-intermediate-009",
+        "difficulty": "Intermediate",
+        "question": "Lake Baikal, the world’s deepest freshwater lake, is located in which country?",
+        "options": ["China", "Mongolia", "Russia", "Kazakhstan"],
+        "correctIndex": 2,
+        "explanation": "Lake Baikal is located in Russia."
+      },
+      {
+        "id": "geography-intermediate-010",
+        "difficulty": "Intermediate",
+        "question": "The Great Rift Valley stretches across which continent?",
+        "options": ["Asia", "Africa", "South America", "Europe"],
+        "correctIndex": 1,
+        "explanation": "The Great Rift Valley stretches across Africa."
+      },
+      {
+        "id": "geography-advanced-001",
+        "difficulty": "Advanced",
+        "question": "The Wallace Line is a boundary separating the ecozones of:",
+        "options": ["Africa & Europe", "Asia & Australia", "North America & South America", "Arctic & Antarctic"],
+        "correctIndex": 1,
+        "explanation": "The Wallace Line separates the ecozones of Asia and Australia."
+      },
+      {
+        "id": "geography-advanced-002",
+        "difficulty": "Advanced",
+        "question": "The Danube River flows into which sea?",
+        "options": ["Baltic Sea", "Mediterranean Sea", "Black Sea", "Adriatic Sea"],
+        "correctIndex": 2,
+        "explanation": "The Danube River flows into the Black Sea."
+      },
+      {
+        "id": "geography-advanced-003",
+        "difficulty": "Advanced",
+        "question": "The Atacama Desert, one of the driest places on Earth, is located in:",
+        "options": ["Peru", "Chile", "Bolivia", "Argentina"],
+        "correctIndex": 1,
+        "explanation": "The Atacama Desert is located in Chile."
+      },
+      {
+        "id": "geography-advanced-004",
+        "difficulty": "Advanced",
+        "question": "Which mountain range forms the natural boundary between Europe and Asia?",
+        "options": ["Alps", "Caucasus", "Ural Mountains", "Carpathians"],
+        "correctIndex": 2,
+        "explanation": "The Ural Mountains form the natural boundary between Europe and Asia."
+      },
+      {
+        "id": "geography-advanced-005",
+        "difficulty": "Advanced",
+        "question": "The Challenger Deep is located in which ocean?",
+        "options": ["Atlantic", "Indian", "Pacific", "Southern"],
+        "correctIndex": 2,
+        "explanation": "The Challenger Deep is the deepest known point in the Pacific Ocean."
+      },
+      {
+        "id": "geography-advanced-006",
+        "difficulty": "Advanced",
+        "question": "Which city is called the “City of Canals” outside Europe?",
+        "options": ["Bangkok", "Cairo", "Shanghai", "Lagos"],
+        "correctIndex": 0,
+        "explanation": "Bangkok is known as the 'Venice of the East' or 'City of Canals'."
+      },
+      {
+        "id": "geography-advanced-007",
+        "difficulty": "Advanced",
+        "question": "The Great Dividing Range is located in which country?",
+        "options": ["South Africa", "Australia", "Canada", "Brazil"],
+        "correctIndex": 1,
+        "explanation": "The Great Dividing Range is a mountain range in Australia."
+      },
+      {
+        "id": "geography-advanced-008",
+        "difficulty": "Advanced",
+        "question": "Which desert is sometimes called the “Roof of the World”?",
+        "options": ["Pamirs", "Taklamakan", "Gobi", "Karakum"],
+        "correctIndex": 0,
+        "explanation": "The Pamir Mountains are known as the 'Roof of the World'."
+      },
+      {
+        "id": "geography-advanced-009",
+        "difficulty": "Advanced",
+        "question": "Which river is sacred to both Hindus and Buddhists?",
+        "options": ["Mekong", "Indus", "Ganga", "Yamuna"],
+        "correctIndex": 2,
+        "explanation": "The Ganga (Ganges) river is sacred to both Hindus and Buddhists."
+      },
+      {
+        "id": "geography-advanced-010",
+        "difficulty": "Advanced",
+        "question": "Which European capital city is located on two continents?",
+        "options": ["Rome", "Athens", "Istanbul", "Moscow"],
+        "correctIndex": 2,
+        "explanation": "Istanbul is located on both the European and Asian continents."
+      },
+      {
+        "id": "geography-advanced-011",
+        "difficulty": "Advanced",
+        "question": "The Mariana Trench is closest to which island group?",
+        "options": ["Philippines", "Hawaii", "Maldives", "Japan"],
+        "correctIndex": 0,
+        "explanation": "The Mariana Trench is closest to the Philippines."
+      },
+      {
+        "id": "geography-advanced-012",
+        "difficulty": "Advanced",
+        "question": "The world’s largest island (not a continent) is:",
+        "options": ["Madagascar", "Greenland", "Borneo", "New Guinea"],
+        "correctIndex": 1,
+        "explanation": "Greenland is the world's largest island."
+      },
+      {
+        "id": "geography-advanced-013",
+        "difficulty": "Advanced",
+        "question": "Which line of latitude is also called the “Circle of Illumination”?",
+        "options": ["Equator", "Tropic of Cancer", "Tropic of Capricorn", "Arctic Circle"],
+        "correctIndex": 0,
+        "explanation": "The Equator is also known as the Circle of Illumination, as it is the line that divides the Earth into day and night."
+      },
+      {
+        "id": "geography-advanced-014",
+        "difficulty": "Advanced",
+        "question": "The Strait of Gibraltar separates:",
+        "options": ["Spain & Italy", "Europe & Africa", "Greece & Turkey", "France & England"],
+        "correctIndex": 1,
+        "explanation": "The Strait of Gibraltar separates Europe and Africa."
+      },
+      {
+        "id": "geography-advanced-015",
+        "difficulty": "Advanced",
+        "question": "Which African lake is the source of the White Nile?",
+        "options": ["Lake Tanganyika", "Lake Victoria", "Lake Malawi", "Lake Turkana"],
+        "correctIndex": 1,
+        "explanation": "Lake Victoria is the source of the White Nile."
+      }
+    ]
+  }
