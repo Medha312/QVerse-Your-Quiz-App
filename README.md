@@ -25,14 +25,23 @@ Project Structure
 QVerse-Your-Quiz-App/
 │
 ├── index.html                 # Main HTML structure for quiz layout
+
 ├── styles.css                 # CSS for design, fonts, colors, and responsiveness
+
 ├── script.js                  # JavaScript logic for quiz questions and scoring
+
 │
+
 ├── public/                    # (Optional folder for images/icons)
+
 │
 ├── Features and workflow.docx  # Documentation file
+
 ├── Question bank of quiz app.docx
+
 └── links.docx                 # Supporting reference links
+
+
 
 Technologies Used
 Technology	Purpose
